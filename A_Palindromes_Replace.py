@@ -22,4 +22,3 @@ else:
     if s[l] == '?':
         s[l] = 'a'
     print(''.join(s))
-ini
